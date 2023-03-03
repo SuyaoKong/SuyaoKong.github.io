@@ -1,8 +1,8 @@
-## Hi, I'm Lunde Chen
+## Hi, I'm Suyao Kong
 
 <br>
 
-- Assistant professor in Computer Science &#x1F4BB;	 <br> at UTSEUS, Shanghai University
+- Assistant professor in Control System &#x1F4BB;	 <br> at UTSEUS, Shanghai University 	
 
 <br>
 <br>
