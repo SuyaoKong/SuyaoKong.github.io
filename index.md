@@ -57,7 +57,7 @@
 ## Education &#x1F393;	
 
 - **BS and MS** 
-	- Beihang University, China 
+	- XI Dong Da, China 
 - **Ph.D in Computer Science**
 	- Toulouse University, France
 
